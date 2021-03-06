@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMenu", "ArrayMenu\ArrayMenu.csproj", "{A53ADEE2-CE95-4B20-982B-915C190C6BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53ADEE2-CE95-4B20-982B-915C190C6BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53ADEE2-CE95-4B20-982B-915C190C6BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53ADEE2-CE95-4B20-982B-915C190C6BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53ADEE2-CE95-4B20-982B-915C190C6BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3C0F78-71E3-42B5-A3DB-D0AAC6A29612}
+	EndGlobalSection
+EndGlobal

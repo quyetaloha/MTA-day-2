@@ -1,0 +1,13 @@
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.exe
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.deps.json
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.runtimeconfig.json
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.dll
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.pdb
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.AssemblyInfo.cs
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.dll
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.pdb
+C:\Users\hoang\source\repos\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.genruntimeconfig.cache

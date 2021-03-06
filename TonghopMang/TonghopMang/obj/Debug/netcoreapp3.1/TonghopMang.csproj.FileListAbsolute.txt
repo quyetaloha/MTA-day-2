@@ -1,0 +1,13 @@
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\bin\Debug\netcoreapp3.1\TonghopMang.exe
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\bin\Debug\netcoreapp3.1\TonghopMang.deps.json
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\bin\Debug\netcoreapp3.1\TonghopMang.runtimeconfig.json
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\bin\Debug\netcoreapp3.1\TonghopMang.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\bin\Debug\netcoreapp3.1\TonghopMang.dll
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\bin\Debug\netcoreapp3.1\TonghopMang.pdb
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\obj\Debug\netcoreapp3.1\TonghopMang.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\obj\Debug\netcoreapp3.1\TonghopMang.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\obj\Debug\netcoreapp3.1\TonghopMang.AssemblyInfo.cs
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\obj\Debug\netcoreapp3.1\TonghopMang.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\obj\Debug\netcoreapp3.1\TonghopMang.dll
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\obj\Debug\netcoreapp3.1\TonghopMang.pdb
+C:\Users\hoang\source\repos\TonghopMang\TonghopMang\obj\Debug\netcoreapp3.1\TonghopMang.genruntimeconfig.cache

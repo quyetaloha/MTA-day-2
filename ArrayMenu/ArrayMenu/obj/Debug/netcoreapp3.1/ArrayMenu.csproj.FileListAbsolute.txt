@@ -1,0 +1,12 @@
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\bin\Debug\netcoreapp3.1\ArrayMenu.exe
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\bin\Debug\netcoreapp3.1\ArrayMenu.deps.json
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\bin\Debug\netcoreapp3.1\ArrayMenu.runtimeconfig.json
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\bin\Debug\netcoreapp3.1\ArrayMenu.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\bin\Debug\netcoreapp3.1\ArrayMenu.dll
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\bin\Debug\netcoreapp3.1\ArrayMenu.pdb
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\obj\Debug\netcoreapp3.1\ArrayMenu.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\obj\Debug\netcoreapp3.1\ArrayMenu.AssemblyInfo.cs
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\obj\Debug\netcoreapp3.1\ArrayMenu.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\obj\Debug\netcoreapp3.1\ArrayMenu.dll
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\obj\Debug\netcoreapp3.1\ArrayMenu.pdb
+C:\Users\hoang\source\repos\ArrayMenu\ArrayMenu\obj\Debug\netcoreapp3.1\ArrayMenu.genruntimeconfig.cache
